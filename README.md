@@ -40,5 +40,5 @@ print("Valor de pi:",pi)
 #Funcion Formula (numero)
 #Primer digito es elevado al cuadrado
 #Los digitos de en medio se multiplican
-#El ultimo digito ABS(pseint)( )
+#El ultimo digito ABS(pseint)( )multiplicado por PI (3.1416)
 #Se hace una sumatoria de todo esto
