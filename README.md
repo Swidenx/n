@@ -3,3 +3,10 @@
 5
 8
 etc
+//" Torneo relampago"
+//Resultados
+// equipos multiplo de 4
+//4 direcciones (ej arquitectura,etc)
+//Semifinales
+//Final Campeonato
+//equipo azar 
